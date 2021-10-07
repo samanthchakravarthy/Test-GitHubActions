@@ -3,9 +3,9 @@ name: Java maven cicd
 on:
   workflow_dispatch:
   push:
-    branches: [ main, release, develop ]
+    branches: [ main, release, develop, feature ]
   pull_request:
-    branches: [ main, release, develop ]
+    branches: [ main, release, develop, feature ]
 
 jobs:
   build:
