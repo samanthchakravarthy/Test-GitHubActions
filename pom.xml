@@ -20,7 +20,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/samanthchakravarthy/github-action-maven-example-start</url>
+            <url>https://maven.pkg.github.com/samanthchakravarthy/Test-GitHubActions</url>
         </repository>
     </distributionManagement>
         
